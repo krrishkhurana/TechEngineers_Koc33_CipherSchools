@@ -1,6 +1,6 @@
-names=['krrish','karan','krish kumar','raj','vaibhav']
-marks=[80,99,79,98,85]
-updation=[10,-5,20,-10,56]
+names=['krrish khurana','karan','krish kumar','raj','vaibhav','bhavik']
+marks=[80,99,79,98,85,98]
+updation=[10,-5,20,-10,56,-5]
 rank=1
 previousRankMarks=100
 
